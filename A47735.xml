@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Leslie's answer to the remarks on his first dialogue against the Socinians</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47735</idno>
+            <idno type="STC">Wing L1120A</idno>
+            <idno type="STC">ESTC R216662</idno>
+            <idno type="EEBO-CITATION">99828387</idno>
+            <idno type="PROQUEST">99828387</idno>
+            <idno type="VID">32814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1953:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Leslie's answer to the remarks on his first dialogue against the Socinians</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>With a final contents leaf.</note>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Socinianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:32814:1"/>
+            <pb n="1" facs="tcp:32814:1" rendition="simple:additions"/>
+            <head>Mr. <hi>LESLIE</hi>'s Anſwer to the <hi>Remarks</hi> on his <hi>firſt Dialogue</hi> againſt the <hi>Socinians.</hi>
+            </head>
+            <p>SInce the <hi>Firſt Dialogue</hi> was Printed ther is come out a <hi>Socinian Sheet</hi> againſt it, In<g ref="char:EOLhyphen"/>tituled, <hi>Remarks on Mr. Char<g ref="char:EOLhyphen"/>les Leſlei</hi>'s <hi>firſt Dialogue on the Soci<g ref="char:EOLhyphen"/>nian Controverſy.</hi> And I think it Pro<g ref="char:EOLhyphen"/>per to take notice of it here, for it may help to Illuſtrat more at Large what is there ſaid in ſhort. And be<g ref="char:EOLhyphen"/>cauſe I hear ſome ſay, it is well Wrote, and that many lay Streſs up<g ref="char:EOLhyphen"/>on it.</p>
+            <p n="1">(1.) Firſt I Obſerve that this <hi>Re<g ref="char:EOLhyphen"/>marker</hi> has not kept up to that Cha<g ref="char:EOLhyphen"/>racter the <hi>Socinian Writers</hi> give them<g ref="char:EOLhyphen"/>ſelves (but without much Reaſon, as I have ſhew'd in theſe <hi>Dialogues</hi>) of being the <hi>faireſt Adverſaries,</hi> and an Example to all others of Managing <hi>Controverſy</hi> without <hi>Heat</hi> or <hi>Paſſion,</hi> or <hi>Perſonal Reflections.</hi> For he has treated me in a very <hi>Rough</hi> Manner, calling the Inſtances I bring <hi>Ridicu<g ref="char:EOLhyphen"/>lous,</hi> p. 1. And that I am <hi>Paganiſh</hi> in in my Notions, p. 6. And ſays, p. 1. <hi>If ſuch poor Philoſophy, ſuch ſhallow Reaſoning, and ſuch groſs Divinity, muſt baffle the Socinians, I confeſs they ought to be the laſt who pretend to the Character of Men of Reaſon.</hi>
+            </p>
+            <p>But notwithſtanding all this <hi>Con<g ref="char:EOLhyphen"/>tempt</hi> of what I have ſaid, I can<g ref="char:EOLhyphen"/>not but think it has given him ſome Trouble, becauſe it has made him ſo <hi>Angry.</hi> For it is <hi>Loſers</hi> that have leave to Talk at this Rate. And as you ſhall ſee him Talk afterwards.</p>
+            <p n="2">(2.) My Argument was, That we cannot Charge any thing to be a <hi>Contradiction</hi> in one <hi>Nature,</hi> becauſe it is ſo in <hi>Another,</hi> unleſs we under<g ref="char:EOLhyphen"/>ſtand both <hi>Natures.</hi> Becauſe a <hi>Na<g ref="char:EOLhyphen"/>ture</hi> we underſtand not cannot be Ex<g ref="char:EOLhyphen"/>plain'd to us but by Alluſion to ſome <hi>Nature</hi> we do underſtand. And ther is that Difference in <hi>Natures</hi> that no <hi>Alluſion</hi> will lie betwixt them, that is, none that is <hi>Proper,</hi> that will come up to the thing, or give a Perſon who Knows not the <hi>Nature</hi> a true <hi>Idea</hi> of it, or even Reconcile it from <hi>Contradiction,</hi> while he Conſiders the <hi>Nature</hi> he do's not Underſtand, by way of <hi>Alluſion</hi> to another <hi>Nature</hi> which he do's Underſtand.</p>
+            <p n="3">(3.) To Illuſtrate this I gave ſeve<g ref="char:EOLhyphen"/>ral <hi>Inſtances,</hi> of which this <hi>Remar<g ref="char:EOLhyphen"/>ker</hi> has p. 1. pick'd out <hi>two</hi> to ſhew his <hi>Wit</hi> upon. One is, That if a Man cou'd he Suppos'd to be with<g ref="char:EOLhyphen"/>out <hi>Thought,</hi> it wou'd be <hi>Impoſſible</hi> to make <hi>Him</hi> Apprehend what it was, or the <hi>Progreſs</hi> of it, as from Hence to <hi>Rome</hi> in an Inſtant, &amp;c. It is Com<g ref="char:EOLhyphen"/>mon to ſay to a Man that is <hi>Muſe<g ref="char:EOLhyphen"/>ing, Where are you?</hi> And to Anſwer I was at <hi>Rome,</hi> or ſuch a <hi>Place.</hi> Now ſuppoſing any one (if it were poſſi<g ref="char:EOLhyphen"/>ble) not to know what <hi>Thought</hi> was, he wou'd Apprehend your <hi>Body</hi> was Remov'd to <hi>Rome</hi> and Back again as ſoon as you cou'd ſpeak. And by <hi>Alluſion</hi> to the <hi>Motion</hi> of <hi>Body,</hi> this cou'd not be Reconcil'd to him from being a Flat <hi>Contradiction,</hi> that any thing cou'd move a Thouſand <hi>Miles</hi> as ſoon as a <hi>Yard.</hi>
+            </p>
+            <p>In anſwer to this the <hi>Remarker</hi> tells you p. 1. <hi>That when you think of Rome or any other Place, 'tis only the Idea of it in your Imagination which you Con<g ref="char:EOLhyphen"/>template,
+<pb n="2" facs="tcp:32814:2"/>and not a Leap or Local Mo<g ref="char:EOLhyphen"/>tion of your Thoughts to it.</hi>
+            </p>
+            <p>Who knows not this that has any <hi>Thought?</hi> But upon the Suppoſition that a Man did not know what <hi>Thought</hi> was, he cou'd have no Apprehenſion of it but as of a <hi>Local Motion.</hi> And what you call <hi>Idea</hi> he wou'd fancy to be ſome <hi>Horſe</hi> or <hi>Coach</hi> that Carry'd you very <hi>Swiftly;</hi> which yet wou'd not ſolve the <hi>Contradiction</hi> as to him, becauſe the <hi>Swiftneſs</hi> of the <hi>Motion,</hi> ſuppoſe it a <hi>Cannon Bullet,</hi> cannot go <hi>two</hi> yards ſo ſoon as <hi>One.</hi>
+            </p>
+            <p n="4">(4.) But becauſe it may be too Ex<g ref="char:EOLhyphen"/>travagant to ſuppoſe a Man without <hi>Thought,</hi> tho' ſome have very Little; and <hi>Suppoſitions</hi> are Allow'd in Argu<g ref="char:EOLhyphen"/>ment even of what never was; yet I Inſiſt not on this, but have given another <hi>Inſtance</hi> which is <hi>Fact,</hi> and daily before us, that is, of a Man Born <hi>Blind.</hi> And how you cou'd give him any Notion of <hi>Sight,</hi> or Ex<g ref="char:EOLhyphen"/>plain to him how the <hi>Eye</hi> can Reach a <hi>Star</hi> as ſoon as the Top of the <hi>Chim<g ref="char:EOLhyphen"/>ney?</hi> He can feel his <hi>Eye</hi> with his <hi>Hand,</hi> and that it is there <hi>Fixt</hi> and do's not go out of his <hi>Head,</hi> how then can he Imagin it gets a Thouſand <hi>Miles</hi> off in an Inſtant, while he Feels it do's not <hi>Stir</hi> at all? He can have no <hi>Notion</hi> of this but by <hi>Alluſion</hi> to ſome other of his <hi>Senſes</hi> which he has. And by the word <hi>Reach,</hi> how the <hi>Sight</hi> can <hi>Reach</hi> a <hi>Star,</hi> he fancies <hi>Arms</hi> or <hi>Legs,</hi> that being all the way by which he can <hi>Reach</hi> to any thing. And then know<g ref="char:EOLhyphen"/>ing that the <hi>Motion</hi> of <hi>Legs</hi> or <hi>Arms</hi> muſt go <hi>one</hi> yard before it go's <hi>two,</hi> he takes your Deſcription of <hi>Sight</hi> to be not only ſome <hi>Strange</hi> and <hi>Wonder<g ref="char:EOLhyphen"/>ful</hi> thing, which he will readily Grant; but he will Inſiſt that it is a flat <hi>Con<g ref="char:EOLhyphen"/>tradictior.</hi> And therefore that he muſt not <hi>Believe</hi> it. And it is Im<g ref="char:EOLhyphen"/>poſſible to Explain it ſo to him as to Reconcile it from being a <hi>Contradicti<g ref="char:EOLhyphen"/>on</hi> to him.</p>
+            <p>To this ſays the <hi>Remarker</hi> very In<g ref="char:EOLhyphen"/>geniouſly, <hi>when we ſee the Stars, our Eyes move not up to them, but their extended Rays ſtrike upon the Eye.</hi> But the man Born <hi>Blind</hi> wou'd ſay, No<g ref="char:EOLhyphen"/>thing <hi>Strikes</hi> upon my <hi>Eye,</hi> for then I ſhou'd <hi>Feel</hi> it. And he knows nothing what you mean by <hi>Rays</hi> or by <hi>See.</hi> Nor cou'd think of any other way but that the <hi>Eye</hi> muſt get up <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Star,</hi> or the <hi>Star</hi> come do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>Eye.</hi> And your talking of <hi>Rays</hi> will not Solve the <hi>Contradiction</hi> one bit as to him. Nor can he be any other<g ref="char:EOLhyphen"/>wiſe Convinc'd than by Perſuading him that what is a <hi>Contradiction</hi> in one <hi>Nature</hi> he underſtands, muſt not be Concluded to be ſo in another <hi>Na<g ref="char:EOLhyphen"/>ture</hi> he do's not underſtand, and that the <hi>Nature</hi> of <hi>Sight</hi> is ſuch as that no <hi>Alluſion</hi> from any other of his <hi>Senſes</hi> can make him Apprehend what it is. Nothing but this can Silence his Mur<g ref="char:EOLhyphen"/>murings about <hi>Contradiction.</hi>
+            </p>
+            <p>Is it not Reaſon then that our <hi>Murmurings</hi> about <hi>Contradiction</hi> in the <hi>Nature</hi> of <hi>God</hi> ſhou'd be <hi>Silenc'd,</hi> ſee<g ref="char:EOLhyphen"/>ing it can be told us no otherwiſe than by ſuch <hi>Words</hi> and <hi>Alluſions</hi> as are Proper to <hi>Man;</hi> And that the <hi>Divine Nature</hi> is Infinitly more <hi>Di<g ref="char:EOLhyphen"/>ſtant</hi> and <hi>Diverſe</hi> from the <hi>Nature</hi> of <hi>Man</hi> than one of our <hi>Senſes</hi> is from another? And as the <hi>Contradiction</hi> the <hi>Blind-man</hi> conceives in the Na<g ref="char:EOLhyphen"/>ture of <hi>Sight</hi> is Caus'd by his com<g ref="char:EOLhyphen"/>paring it with the Motion of his <hi>Legs</hi> or <hi>Arms,</hi> and that occaſion'd by improper <hi>Words</hi> we muſt uſe to him, all others being <hi>
+                  <g ref="char:V">Ʋ</g>nintelligible</hi> to him but what have <hi>Alluſion</hi> to ſome of the <hi>Senſes</hi> he has: So in like manner thoſe <hi>Contradictions</hi> we Conceive in the Nature of <hi>God</hi> are all Occaſion'd by the improper <hi>Words</hi> which muſt be us'd to us in Expreſ<g ref="char:EOLhyphen"/>ſing of His <hi>Nature,</hi> all <hi>Words</hi> being totally <hi>
+                  <g ref="char:V">Ʋ</g>nintelligible</hi> to us, which have not <hi>Alluſion</hi> to ſomething we un<g ref="char:EOLhyphen"/>derſtand. And thus we Conceiving
+<pb n="3" facs="tcp:32814:2"/>of <hi>God</hi> after the manner of <hi>Men,</hi> make all thoſe things to be <hi>Contra<g ref="char:EOLhyphen"/>dictions</hi> in <hi>God</hi> which in our Con<g ref="char:EOLhyphen"/>ception of the <hi>Words</hi> are a <hi>Contra<g ref="char:EOLhyphen"/>diction</hi> to <hi>Men.</hi> As that ſeveral <hi>Per<g ref="char:EOLhyphen"/>ſons</hi> ſhou'd not be ſeveral <hi>Men,</hi> and that the <hi>Father</hi> ſhou'd not be before the <hi>Son,</hi> &amp;c. Whereas theſe <hi>Terms</hi> of <hi>Father, Son, Perſons,</hi> &amp;c. are not pro<g ref="char:EOLhyphen"/>per to the <hi>Nature</hi> of <hi>God,</hi> (tho' the moſt <hi>Proper</hi> we can uſe or under<g ref="char:EOLhyphen"/>ſtand) And therefore we are not to Conceive of them in the manner they are us'd and apply'd to <hi>Men,</hi> nor draw <hi>Conſequences</hi> from them as we do when theſe <hi>Words</hi> are Apply'd to <hi>Men.</hi> Otherwiſe we ſhall Run into the like <hi>Contradictions</hi> as the <hi>Blind-man</hi> about <hi>Sight.</hi>
+            </p>
+            <p>This will throw off all that the <hi>Remarker</hi> ſays of Inferring three <hi>Gods</hi> from the Term of three <hi>Perſons,</hi> be<g ref="char:EOLhyphen"/>cauſe it is ſo among <hi>Men.</hi> He talks like a <hi>Blind-man</hi> of <hi>Colours,</hi> of things <hi>which</hi> he muſt Confeſs he do's not underſtand; yet will be inferring <hi>Contradictions</hi> in them. He owns he cannot ſpeak <hi>Properly</hi> of them, yet finds fault with the <hi>Terms</hi> we uſe, becauſe they are not <hi>Proper,</hi> tho' he can find none more <hi>Proper.</hi>
+            </p>
+            <p n="5">(5.) He may as well ſay, That <hi>God</hi> is not <hi>Eternal,</hi> becauſe we have no word to Expreſs <hi>Duration</hi> higher than the word <hi>Beginning,</hi> and ther can be no <hi>Beginning</hi> in <hi>Eternity.</hi>
+            </p>
+            <p>He may ſay it is a <hi>Contradiction</hi> that all things ſhou'd be <hi>Preſent</hi> with <hi>God</hi> (which yet he will not Deny to be an undoubted Verity) becauſe it is a <hi>Contradiction</hi> to <hi>Men,</hi> that the <hi>Past</hi> or <hi>Future</hi> ſhou'd be <hi>Preſent,</hi> be<g ref="char:EOLhyphen"/>cauſe then a thing wou'd be <hi>Paſt</hi> and not <hi>Paſt, Future</hi> and not <hi>Future</hi> at the ſame time.</p>
+            <p>Theſe and other things I menti<g ref="char:EOLhyphen"/>oned in my <hi>first Dialogue,</hi> but the <hi>Remarker</hi> takes no notice of them, nor will own the <hi>Abſurdity</hi> of infer<g ref="char:EOLhyphen"/>ring <hi>Contradictions</hi> in <hi>God</hi> from <hi>Con<g ref="char:EOLhyphen"/>tradictions</hi> in <hi>Man,</hi> occaſion'd by the Improper <hi>Terms</hi> we are Forc'd to make uſe of to Expreſs <hi>God</hi> after the manner of <hi>Men.</hi>
+            </p>
+            <p n="6">(6.) But he has laid his Streſs up<g ref="char:EOLhyphen"/>on this Inſtance I brought of the <hi>Blind man.</hi> And here he thinks he has an Advantage of me. And I am willing to join Iſſue with him up<g ref="char:EOLhyphen"/>on it, That if he can find out any <hi>Words</hi> that are <hi>Proper,</hi> whereby to Expreſs the Nature of <hi>Sight</hi> to a Man Born <hi>Blind,</hi> and that he will give the <hi>Blind-man</hi> leave to draw <hi>Conſequences</hi> and infer <hi>Contradictions</hi> from ſuch <hi>Words</hi> according as he un<g ref="char:EOLhyphen"/>derſtands them; then I will under<g ref="char:EOLhyphen"/>take to ſolve all the <hi>Contradictions</hi> that he pretends to muſter up in the <hi>Terms</hi> whereby we Expreſs the Ho<g ref="char:EOLhyphen"/>ly <hi>Trinity.</hi> And let him ſhew any Difference betwixt theſe Caſes if he can, only this, That far greater <hi>Di<g ref="char:EOLhyphen"/>ſparity</hi> ought to be Allow'd as to the <hi>Propriety</hi> of <hi>Words</hi> when <hi>Terms</hi> belonging to <hi>Men</hi> are ſpoke of <hi>God,</hi> than when what belongs to one of our <hi>Senſes</hi> is Apply'd to another.</p>
+            <p n="7">(7.) And now let the Reader Judge what occaſion he had of thus Inſul<g ref="char:EOLhyphen"/>ting me, p. 1.</p>
+            <p>
+               <q>But are you indeed <hi>(ſays he to me)</hi> ſo very weak as to think you move all the way to <hi>Rome,</hi> and are got thi<g ref="char:EOLhyphen"/>ther as ſoon as you think of it? No, Sir, whatever haſt you may be in thi<g ref="char:EOLhyphen"/>ther, you go no faſter than your Legs can carry you. And ſhou'd <hi>You</hi> Challenge all the <hi>Philoſophy</hi> in the World? Who have ſo little as not to know, that when you think of <hi>Rome,</hi> or any other Place, 'tis only the <hi>Idea</hi> of it in your I<g ref="char:EOLhyphen"/>magination which you Contem<g ref="char:EOLhyphen"/>plate, and not a Local Motion of your Thoughts to it. In like man<g ref="char:EOLhyphen"/>ner, when we ſee the <hi>Stars</hi> our
+<pb n="4" facs="tcp:32814:3"/>
+                  <hi>Eyes</hi> move not up to them, but their Extended <hi>Rayes</hi> ſtrike upon the Eye. I ſee you have a Head much fitter for entertaining and coining Myſteries, than for Explai<g ref="char:EOLhyphen"/>ning or Defending 'em. It's a wonder you did not think rather, that <hi>Rome</hi> or <hi>Conſtantinople</hi> ſhift and come into your Head: And then ſince in other Caſes a leſſer Veſ<g ref="char:EOLhyphen"/>ſel cannot contain a greater, nor a Nut-ſhel hold an Houſe; you might wonder how your little Head ſhould hold ſuch great Ci<g ref="char:EOLhyphen"/>ties; And with the ſame Philoſo<g ref="char:EOLhyphen"/>phy infer, that what is a Contradi<g ref="char:EOLhyphen"/>ction to <hi>Nutſhels</hi> is none to <hi>Heads,</hi> and Challenge all Philoſophy to Re<g ref="char:EOLhyphen"/>concile it.</q>
+            </p>
+            <p>Now, Reader, has he not fully un<g ref="char:EOLhyphen"/>derſtood me, do you think, and an<g ref="char:EOLhyphen"/>ſwer'd me ſmartly?</p>
+            <p n="8">(8.) But will you ſee him freely <hi>Confeſſing</hi> what he thus <hi>Ridicules?</hi> He ſays in this ſame p. 1.</p>
+            <p>
+               <q>Indeed there may be ſomething attributed to one Nature, where there is nothing Inconſiſtent, or Contradictory to it; while if at<g ref="char:EOLhyphen"/>tributed to another it might meet with ſomthing Inconſiſtent, whence a <hi>Contradiction</hi> will ariſe in the one and not in the other.</q>
+            </p>
+            <p>Now this is the whole of what I have been contending for. I deſire no more of him. And having gran<g ref="char:EOLhyphen"/>ted this, how can he Deny that what is a <hi>Contradiction</hi> in one <hi>Nature,</hi> that is, of <hi>Man,</hi> may not be ſo in another <hi>Nature,</hi> that is, of <hi>God?</hi> Or are ther any two <hi>Natures</hi> more <hi>Diſtant</hi> and more <hi>Different</hi> than the <hi>Nature</hi> of <hi>God</hi> and of a <hi>Creature?</hi> Or do we underſtand the <hi>Nature</hi> of <hi>God</hi> more <hi>Perfectly</hi> and <hi>Clearly</hi> than our own <hi>Nature?</hi> Is it not Reaſonable then what I ſaid, as he Quotes my words, p. 2. <hi>That we muſt not ob<g ref="char:EOLhyphen"/>ject Contradictions in the Incomprehen<g ref="char:EOLhyphen"/>ſible Nature of God, from Comparing it with our own.</hi> Becauſe we <hi>
+                  <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtand</hi> not his <hi>Nature.</hi> To which the <hi>Remarker</hi> ſays,</p>
+            <p n="9">(9.) <q>I ſhould grant this, in an object of which we have no know<g ref="char:EOLhyphen"/>lege at all: But ſurely if I have ſome, tho' a partial knowlege of the Infinite God, I may diſcern what is Contradictory to that lit<g ref="char:EOLhyphen"/>tle knowlege of him. Nor is any thing more uſual or Juſt, than to Deny ſuch or ſuch a Doctrine, be<g ref="char:EOLhyphen"/>cauſe Incompatible to the Divine Attributes, to his Spirituality, Eter<g ref="char:EOLhyphen"/>nity, Goodneſs, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>To which I reply, That the <hi>Nature</hi> and <hi>Attributes</hi> of any thing are Dif<g ref="char:EOLhyphen"/>ferent. We may know the <hi>Attri<g ref="char:EOLhyphen"/>butes,</hi> when we cannot know the <hi>Na<g ref="char:EOLhyphen"/>ture.</hi> As we may ſee the <hi>River,</hi> but cannot Reach the <hi>Spring</hi> whence it flows. And this Diſpute of the <hi>Trinity</hi> is not about any of the <hi>Attri<g ref="char:EOLhyphen"/>butes</hi> of <hi>God,</hi> but Concerning His ve<g ref="char:EOLhyphen"/>ry <hi>Nature</hi> and <hi>Eſſence,</hi> and how His <hi>Being</hi> is Compos'd, (if I might uſe that Word) of which I may ſay we are totally Ignorant, it is a <hi>Light</hi> In<g ref="char:EOLhyphen"/>acceſſible to us, we know Nothing of it at all. And therefore cannot Charge <hi>Contradiction</hi> in the <hi>Revela<g ref="char:EOLhyphen"/>tion</hi> that is given to us of it. If we look Directly upon the <hi>Sun</hi> in its Strength, we ſee Nothing at all, it Strikes us <hi>Blind.</hi> But if we turn our Backs, we Diſcern the <hi>Light</hi> that comes from it. The <hi>Attributes</hi> of <hi>God</hi> are the <hi>Rays</hi> of the <hi>Sun,</hi> but His <hi>Nature</hi> is the <hi>Sun</hi> it ſelf, we cannot Look upon it. It is Utter <hi>Darkneſs</hi> to Us, through the Ex<g ref="char:EOLhyphen"/>ceſs of the <hi>Light.</hi> We can Diſcern Nothing at all in it, or ſay it is <hi>Thus</hi> or <hi>Thus,</hi> or that <hi>This</hi> or <hi>That</hi> is <hi>Contradictory</hi> to it. Alaſs, how little do we know of our own <hi>Na<g ref="char:EOLhyphen"/>ture;</hi>
+               <pb n="5" facs="tcp:32814:3"/>We know it only by the <hi>Ef<g ref="char:EOLhyphen"/>fects</hi> and the <hi>Qualities</hi> we find in our Selves. But what it is in its ſelf we cannot tell, we are Exceed<g ref="char:EOLhyphen"/>ingly in the <hi>Dark.</hi> And ſo as to the <hi>Nature</hi> of <hi>Trees, Flowers, Plants</hi> &amp;c. We find by Experience ſuch <hi>Effects</hi> and <hi>Vertues</hi> in them, but we know not the <hi>Nature</hi> or <hi>Eſſence</hi> of them, no not of a Pile of <hi>Graſs,</hi> why of that <hi>Colour, Shape,</hi> or <hi>Vertue.</hi> How then can we Know what the <hi>Nature</hi> of <hi>God</hi> is? Or can we ſay it is not Rightly <hi>Reveal'd</hi> to Us in the Holy <hi>Scripture?</hi> Do we Know of what <hi>Compoſition</hi> our own <hi>Souls</hi> are made? Or how they <hi>Act</hi> in Us? Do we Know any thing at all of the <hi>Soul</hi> but by the <hi>Effects?</hi> We Know we <hi>Think,</hi> therefore we Conclude we have a <hi>Soul,</hi> but what that <hi>Soul</hi> is in its ſelf, we Know not. Yet we wou'd Know the <hi>Nature</hi> of <hi>God!</hi>
+            </p>
+            <p n="10">(10.) This brings me to a <hi>Criti<g ref="char:EOLhyphen"/>ciſm</hi> of the <hi>Remarker</hi> upon the <hi>Parallel</hi> I made uſe of concerning the three <hi>Faculties</hi> of the <hi>Soul.</hi> He ſays, p. 3. That the <hi>Memory</hi> is not <hi>another Faculty,</hi> but only an Act of the <hi>
+                  <g ref="char:V">Ʋ</g>nderstanding.</hi> Now I thought that the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> was only Con<g ref="char:EOLhyphen"/>verſant about what was then <hi>Pre<g ref="char:EOLhyphen"/>ſent</hi> before it. And that the <hi>Me<g ref="char:EOLhyphen"/>monry</hi> brought back <hi>Paſt</hi> things, and ſo made them <hi>Preſent</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding.</hi> Whence a Man may have a good <hi>
+                  <g ref="char:V">Ʋ</g>nderstanding,</hi> and yet a bad <hi>Memory.</hi> Do we ſay of the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> that it <hi>Forgets?</hi> I take <hi>Truth</hi> or <hi>Falſhood</hi> to be the <hi>Objects</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding.</hi> But is <hi>Love</hi> or <hi>Hatred</hi> ſo? A Man may have an <hi>Averſion,</hi> and not know the <hi>Reaſon</hi> of it.</p>
+            <q>
+               <l>Non Amo te, Sabidi, nec poſſum dicere Quare,</l>
+               <l>Hoc tantum poſſum dicere, Non Amo te.</l>
+            </q>
+            <p>Are ther <hi>Antipathys</hi> in the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing?</hi> I think this is generally Attri<g ref="char:EOLhyphen"/>buted to the <hi>Will,</hi> and it is Agreed that it is a Diſtinct <hi>Faculty</hi> from the <hi>
+                  <g ref="char:V">Ʋ</g>nderstanding.</hi> And if ther be Different <hi>Faculties</hi> in the ſame <hi>Soul,</hi> it Anſwers all the Purpoſe for which I brought that <hi>Parallel.</hi> Nay, if it be but ſo Thought, it do's as well for me, to Solve the <hi>Objection</hi> about <hi>Contradiction,</hi> That Men ſhou'd not think a <hi>Plurality</hi> of <hi>Perſons</hi> in <hi>God</hi> to be a <hi>Contradiction</hi> when the ſame <hi>Diffi<g ref="char:EOLhyphen"/>culty</hi> ariſes from a <hi>Plurality</hi> of <hi>Facul<g ref="char:EOLhyphen"/>ties</hi> in the <hi>Soul.</hi> For Three <hi>Facul<g ref="char:EOLhyphen"/>ties</hi> can no more be <hi>One Faculty,</hi> than Three <hi>Perſons</hi> can be <hi>One Per<g ref="char:EOLhyphen"/>ſon.</hi> And yet theſe Different <hi>Fa<g ref="char:EOLhyphen"/>culties</hi> make up but <hi>One</hi> and the Self ſame <hi>Soul.</hi>
+            </p>
+            <p n="11">(11.) But I have Sufficiently Caution'd that I intend not to bring any <hi>Proof</hi> from theſe <hi>Parallels,</hi> Nor lay the ſtreſs of the <hi>Cauſe</hi> upon them, yet I thought them not altogether Uſeleſs, to ſhew Men how far they may Miſtake in Charg<g ref="char:EOLhyphen"/>ing <hi>Contradictions:</hi> from one <hi>Nature</hi> to another.</p>
+            <p n="12">(12) I have likewiſe told, That no <hi>Parallel</hi> in <hi>Created Natures</hi> can Anſwer <hi>Exactly</hi> or Come up to the <hi>Nature</hi> of <hi>God,</hi> only Point <hi>Him</hi> out at a Great <hi>Diſtance,</hi> and with In<g ref="char:EOLhyphen"/>finite <hi>Diſproportion.</hi> And therefore that we muſt not Argue <hi>Strictly</hi> from the <hi>One</hi> to the <hi>Other.</hi> Yet the <hi>Remarker</hi> will not Obſerve this, but Argues of the <hi>Perſons</hi> of <hi>God</hi> as of <hi>Human Perſons.</hi> And ſays, p. 4. <hi>If three Divine Perſons be like three Human Perſons—And if three Divine Perſons ſhould as Properly be accounted three Gods, as three Hu<g ref="char:EOLhyphen"/>man Perſons can, in Strict Speech, be accounted three Men</hi>—Thence he Infers <hi>three Gods</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:32814:4"/>
+            <p>He cannot I think but ſee the Fallacie of this Argument, after all that I have ſaid. But he will not ſee it! He will ſtill Argue <hi>Strictly</hi> from the Word <hi>Perſon,</hi> and Apply it to <hi>God</hi> in the ſame manner that it is Us'd among <hi>Men.</hi> If he wou'd Apply the word <hi>Father</hi> ſo, (which himſelf gives to <hi>God</hi>) or <hi>God</hi>'s be<g ref="char:EOLhyphen"/>ing ſaid to <hi>Repent,</hi> to <hi>Grieve.</hi> &amp;c. What Work wou'd he make, what <hi>Contradictions</hi> might he Infer? His Brother <hi>Socinian</hi> Mr. <hi>Biddle</hi> (as I have ſhew'd) turn'd <hi>Anthropomorphit</hi> by this ſort of Argument, and from Man being ſaid to be made after the <hi>Image</hi> of <hi>God,</hi> held <hi>God</hi> to have a <hi>Body,</hi> and of <hi>Human Shape.</hi> And he might as well have made Him a <hi>Bird</hi> too, becauſe ther is Mention made of His <hi>Wings</hi> and <hi>Feathers!</hi>
+               <note place="margin">Pſal. xci. 4.</note> This Savours not of the <hi>Sagacity</hi> the <hi>Socinians</hi> think Peculiar to Themſelves.</p>
+            <p n="13">(13.) From the like Groſs Con<g ref="char:EOLhyphen"/>ceptions the <hi>Remarker,</hi> p. 7. raiſes Difficulties how a <hi>Begotten Being</hi> can be <hi>God.</hi> Thinking of <hi>Begetting</hi> af<g ref="char:EOLhyphen"/>ter the Manner of <hi>Men!</hi> And then the <hi>Father</hi> muſt be in <hi>Time,</hi> as well as in <hi>Nature,</hi> before the <hi>Son.</hi> And it having been told him that ſup<g ref="char:EOLhyphen"/>poſing the <hi>Sun</hi> to be <hi>Eternal,</hi> its <hi>Light</hi> wou'd be as <hi>Eternal,</hi> he Re<g ref="char:EOLhyphen"/>plys, p. 7. That this <hi>Parallel</hi> will not do, for that the <hi>Light</hi> which (ſays he) <hi>You call an Effect of the Sun, is indeed the very Sun it ſelf, ſo may well be as, Old.</hi> By which the very <hi>Sun</hi> we ſee in the <hi>Firmament,</hi> and is many times Bigger than the whole <hi>Earth,</hi> can Creep through a <hi>Cranny,</hi> and be All of it in this Room, and in a Thouſand other Places at the ſame Time! This will help <hi>Tranſ-Subſtantiation</hi> not a lit<g ref="char:EOLhyphen"/>tle! But is it ſo indeed that this Subtile <hi>Socinian</hi> can ſee no Diffe<g ref="char:EOLhyphen"/>rence betwixt the very <hi>Sun</hi> it Self, and the <hi>Light</hi> that flows from it? It is then time to have done Di<g ref="char:EOLhyphen"/>ſputing with him. And he Runs into as Great <hi>Abſurdities</hi> to get Rid of theſe <hi>Parallels</hi> as he Charges upon me for making Uſe of them.</p>
+            <p>He ſays (as before Quoted, <hi>Sect.</hi> 4.) <hi>That when we See the Stars, our Eyes move not up to them, but their extended Rays ſtrike upon the Eye.</hi> But if the <hi>Rays</hi> or the <hi>Light</hi> be the <hi>very Star it ſelf,</hi> then the very <hi>Star</hi> it ſelf <hi>Strikes</hi> upon the <hi>Eye.</hi> Let him Conſider whether ther is any thing ſo very <hi>Groſs</hi> as this in any of the <hi>Parallels</hi> I have produc'd. And on whoſe ſide lies the <hi>poor Philoſophy,</hi> and <hi>Shallow Reaſoning.</hi>
+            </p>
+            <p n="14">(14.) Therefore leaving this Sub<g ref="char:EOLhyphen"/>ject, I will now only Anſwer an Obſervation he makes from <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> wherein he ſays, p. 2. <hi>God Almighty is Perpetually expreſs'd</hi> in the <hi>Singular</hi> Number, <hi>
+                  <g ref="char:V">Ʋ</g>nder One, He, Me, Thou,</hi> &amp;c. Now leſt the Reader of theſe <hi>Remarks</hi> ſhould be Carry'd away with this, I muſt mind him, That this <hi>Socinian</hi> ſays this, without taking any Notice of the <hi>Texts</hi> I have given to the Contrary in the 2d <hi>Di<g ref="char:EOLhyphen"/>alogue</hi> p. 32, <hi>&amp;c.</hi> Beginning with the <hi>firſt</hi> of <hi>Geneſis</hi> where <hi>God</hi> is Spoken of in the <hi>Plural</hi> as well as the <hi>Singular</hi> Number according to the <hi>Hebrew, He</hi> is there called <hi>Gods,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> as well as <hi>God,</hi> and <hi>Me.</hi> And is He not ſpoken of in the <hi>Plural</hi> Number in the <hi>Form</hi> of <hi>Baptiſm</hi> in the Name of the <hi>Father,</hi> and of the <hi>Son,</hi> and of the <hi>Holy Ghoſt?</hi> The <hi>Remarker</hi> ought to have <hi>Mark'd</hi> this, and not to have put the <hi>Objection</hi> over again, without ſaying ſomething to the <hi>Anſwer</hi> had been made to it.</p>
+            <p>If this ſheet gives him not full Satiſ<g ref="char:EOLhyphen"/>faction, I ſhall be willing to hear from him again.</p>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:32814:4"/>
+            <head>Contents.</head>
+            <list>
+               <item>1. HIS <hi>Rude</hi> Treatment of me.</item>
+               <item>2. The <hi>Argument</hi> I made uſe of, That we ought not to Infer a <hi>Contradiction</hi> from a <hi>Nature</hi> we Underſtand, to <hi>Another</hi> which we do not Underſtand.</item>
+               <item>3. His <hi>Anſwer</hi> as to <hi>Thought</hi> Re<g ref="char:EOLhyphen"/>ply'd to.</item>
+               <item>4. And as to a Man Born <hi>Blind.</hi>
+               </item>
+               <item>5. Other <hi>Inſtances</hi> I brought of which he takes no Notice.</item>
+               <item>6. I join <hi>Iſſue</hi> with him as to the <hi>Inſtance</hi> of a Man Born <hi>Blind.</hi>
+               </item>
+               <item>7. What little Ground he had to <hi>Inſult</hi> me here.</item>
+               <item>8. He Expreſly owns my <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> to the full.</item>
+               <item>9. His Diſtinction of our <hi>Partial Knowledge</hi> of <hi>God</hi> will not do, for we know nothing of the <hi>Nature</hi> or <hi>Eſſence</hi> of <hi>God.</hi> Nor indeed of our own or any o<g ref="char:EOLhyphen"/>ther <hi>Nature.</hi> And our Diſpute is concerning the <hi>Nature</hi> of <hi>God,</hi> and not of His <hi>Attributes.</hi>
+               </item>
+               <item>10. He Confounds the <hi>Memory</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding.</hi> Diffe<g ref="char:EOLhyphen"/>rent <hi>Faculties</hi> in the <hi>Soul</hi> ſhew'd againſt him. And the <hi>Parallel</hi> Juſtify'd.</item>
+               <item>11. I make this no <hi>Proof,</hi> nor lay the <hi>Streſs</hi> of the <hi>Cauſe</hi> upon it.</item>
+               <item>12. How groſly he Argues from <hi>Human Perſons</hi> to the <hi>Divine.</hi> This made <hi>Biddle</hi> turn <hi>Anthro<g ref="char:EOLhyphen"/>pomorphite.</hi>
+               </item>
+               <item>13. He makes no Difference be<g ref="char:EOLhyphen"/>twixt the <hi>Light</hi> and the <hi>Sun.</hi> By which the <hi>Sun</hi> it ſelf comes in to our <hi>Eye.</hi> On whoſe ſide lies the <hi>poor Philoſophy</hi> and <hi>Shal<g ref="char:EOLhyphen"/>low Reaſoning.</hi>
+               </item>
+               <item>14. His Argument that <hi>God</hi> is <hi>Per<g ref="char:EOLhyphen"/>petually</hi> expreſs'd in <hi>Scripture</hi> in the <hi>Singular</hi> Number, ſhew'd to be otherwiſe; And he gives no <hi>Anſwer</hi> to what I have ſaid upon it.</item>
+            </list>
+            <p>I invite him to Reply.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
